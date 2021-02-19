@@ -77,13 +77,13 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", LONG AN - LA34
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://mytv.com.vn/upload/channel/661.png", DONG THAP - THÐT1
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/JzZftBc/thdt1.png", DONG THAP - THÐT1
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w359372379.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.imgur.com/FsCTf6v.png", DONG THAP - MIEN TAY (THÐT2)
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/RgdpJCj/thdt2.png", DONG THAP - MIEN TAY (THÐT2)
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w230918482.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.imgur.com/UTSrapf.png", TIEN GIANG - THTG
 http://thtg.vn:8001/stream_hi.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://thbt.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png", BEN TRE - THBT
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/rQy17gg/thbt.png", BEN TRE - THBT
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.imgur.com/wCP0U5u.png", AN GIANG - ATV
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
@@ -107,7 +107,7 @@ https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://mytv.com.vn/upload/channel/691.png", CA MAU - CTV
 https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/qFMWYgN/KG.png", KIEN GIANG - KG
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/61cBbc3/kg.png", KIEN GIANG - KG
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/gdtMYzR/KG1.png", KIEN GIANG - KG1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
@@ -115,19 +115,19 @@ http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png", BINH DUONG - BTV2
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="btv9_an_vien" group-title="DIA PHUONG" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png", BINH DUONG - AN VIEN TV (BTV9)
+#EXTINF:-1 tvg-id="btv9_an_vien" group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/q9qsTyd/btv9.png", BINH DUONG - AN VIEN TV (BTV9)
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.imgur.com/8rGiYuk.png", TAY NINH - TTV11
 http://livecdn.fptplay.net/sda/tayninhhd_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://mytv.com.vn/upload/channel/601.png", DONG NAI - ÐN2RTV
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/xXkGJRW/dn2.png", DONG NAI - ÐN1RTV
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://mytv.com.vn/upload/channel/602.png", DONG NAI - ÐN1RTV
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/fG3xtXR/dn1.png", DONG NAI - ÐN2RTV
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://brt.vn/common/v1/images/logo-footer.png", BA RIA VUNG TAU - BRT
 https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.imgur.com/AwMCnAl.png", BINH PHUOC - BPTV1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.imgur.com/97Kgo2U.png", BINH PHUOC - HOME TV (BPTV2)
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/mt3FtRK/bptv2.png", BINH PHUOC - HOME TV (BPTV2)
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 
 #EXTINF:-1 tvg-id="vtv1" group-title="VTV" tvg-logo="https://i.ibb.co/HVm4hSt/vtv1logobyvovanloc.png", VTV1
