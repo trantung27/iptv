@@ -77,13 +77,13 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", LONG AN - LA34
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/JzZftBc/thdt1.png", DONG THAP - THÐT1
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/WH61Q35/thdt1.png", DONG THAP - THÐT1
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w359372379.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/RgdpJCj/thdt2.png", DONG THAP - MIEN TAY (THÐT2)
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w230918482.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.imgur.com/UTSrapf.png", TIEN GIANG - THTG
 http://thtg.vn:8001/stream_hi.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/rQy17gg/thbt.png", BEN TRE - THBT
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/k8jNmTM/thbt.png", BEN TRE - THBT
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.imgur.com/wCP0U5u.png", AN GIANG - ATV
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
