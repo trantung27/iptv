@@ -10,9 +10,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv4" tvg-logo="https://i.ibb.co/Pzq0q46/htvkeylogobyvovanloc.png", HTV KEY
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/bgxfhb3/HTV2.png", HTV2 - Vie Channel
+#EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/bgxfhb3/HTV2.png", HTV2 - VIE CHANNEL
 https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/DRHhR6V/HTV3.png", HTV3 - DreamsTV
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/DRHhR6V/HTV3.png", HTV3 - DREAMS TV
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_thuan_viet" tvg-logo="https://i.ibb.co/GQC0WbM/htvcthuanvietlogobyvoavnloc.png", HTVC THUAN VIET
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
@@ -70,7 +70,7 @@ https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="ttxvn"  tvg-logo="https://i.imgur.com/ziUs8oD.png", VNEWS
 http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv"  tvg-logo="https://img.hplus.com.vn/1180x665/banner/2018/06/05/255092-Nhandan.png", NHAN DAN TV
+#EXTINF:-1 tvg-id="nhan_dan_tv"  tvg-logo="https://i.ibb.co/HKQDTDZ/NHANDAN.png", NHAN DAN TV
 https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="quoc_phong_tv"  tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", QPVN
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
