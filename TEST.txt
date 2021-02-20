@@ -5,7 +5,7 @@ https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv9" group-title="HTV" tvg-logo="https://i.ibb.co/NLh55qm/htv9logobyvovanloc.png", HTV9
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV"  tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png", HTV THE THAO
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/yXjF0dk/htv1logobyvovanloc.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="HTV" tvg-logo="https://i.ibb.co/Pzq0q46/htvkeylogobyvovanloc.png", HTV KEY
@@ -45,7 +45,7 @@ https://vtc130121.cdn.vnns.io/VTC4_abr/vtc130121/VTC4_abr_1080p/chunks.m3u8
 https://vtc130121.cdn.vnns.io/VTC5_abr/vtc130121/VTC5_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc6" group-title="VTC" tvg-logo="https://i.ibb.co/d4RzbFn/vtc6logobyvovanloc.png", VTC6
 https://vtc130121.cdn.vnns.io/VTC6_abr/vtc130121/VTC6_abr_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc7_today_tv" group-title="VTC" tvg-logo="https://i.ibb.co/N2tW7VJ/VTC7.png", VTC7 - TODAY TV
+#EXTINF:-1 tvg-id="vtc7_today_tv" group-title="VTC" tvg-logo="https://i.ibb.co/T4t2mNT/vtc7.png", VTC7 - TODAY TV
 https://vtc130121.cdn.vnns.io/VTC7_abr/vtc130121/VTC7_abr_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.ibb.co/brrd34J/vtc8logobyvovanloc.png",VTC8
 https://vtc130121.cdn.vnns.io:443/VTC8_abr/vtc130121/VTC8_abr_1080p/chunks.m3u8
@@ -91,15 +91,11 @@ http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="thvl2" group-title="DIA PHUONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png", VINH LONG - THVL2
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="thvl3" group-title="DIA PHUONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png", VINH LONG - THVL3
-https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="thvl4" group-title="DIA PHUONG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png", VINH LONG - THVL4
-https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/04/472419-CanTho.png", CAN THO - THTPCT
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/71sTFLv/thtpct.png", CAN THO - THTPCT
 https://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.imgur.com/foh5NTi.png", HAU GIANG - HGTV
 http://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://mytv.com.vn/upload/channel/841.png", TRA VINH - THTV
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/RSWhkBQ/thtv.png", TRA VINH - THTV
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="http://thst.vn/Content/images/stv1.png", SOC TRANG - STV1
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
@@ -111,9 +107,9 @@ https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/gdtMYzR/KG1.png", KIEN GIANG - KG1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/18/522019-BTV1.png", BINH DUONG - BTV1
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/wSkNXMP/btv1.png", BINH DUONG - BTV1
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png", BINH DUONG - BTV2
+#EXTINF:-1 group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/XL0QdzK/btv2.png", BINH DUONG - BTV2
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="btv9_an_vien" group-title="DIA PHUONG" tvg-logo="https://i.ibb.co/q9qsTyd/btv9.png", BINH DUONG - AN VIEN TV (BTV9)
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
@@ -191,10 +187,6 @@ http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Kb9TTcY/babyfirstlogobyvovanloc.png", BABY FIRST
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="disney_junior" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/qDbyjz1/Disney-Juniorlogobyvovanloc.png", DISNEY JUNIOR
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
-#EXTINF:-1 tvg-id="disney_channel" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/PzZq565/Disney-Channellogobyvovanloc.png", DISNEY CHANNEL
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
 #EXTINF:-1 tvg-id="cartoon_network" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png", CARTOON NETWORK
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
 
