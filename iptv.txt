@@ -149,7 +149,7 @@ https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601
 #EXTINF:-1 tvg-id="vtv5hdtnb"  tvg-logo="https://i.ibb.co/9y5jXY2/vtv5tnlogobyvovanloc.png", VTV5 Tây Nguyên
 https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
 
-#EXTINF:0 tvg-id="vtvcab1_giai_tri_tv"  tvg-logo="https://i.ibb.co/XYVdCsJ/vc1.png",VTVCab1 - Vie Giải Trí
+#EXTINF:0 tvg-id="vtvcab1_giai_tri_tv"  tvg-logo="https://i.ibb.co/ctP12DP/vc1.png",VTVCab1 - Vie Giải Trí
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w1233410551_b2692000.m3u8
 #EXTINF:0 tvg-id="vtvcab2_phim_viet"  tvg-logo="",VTVCab2 -  Phim Việt
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD_new1.smil/chunklist_w43763656_b2692000.m3u8
