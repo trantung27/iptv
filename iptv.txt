@@ -233,9 +233,9 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_w8358766
 http://quocthai.duckdns.org:18886/rtp/232.84.2.171:10834
 #EXTINF:0 tvg-id="hbo" tvg-logo="https://i.ibb.co/PMLnXJR/hbo-BEARTV.png",HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648 
-#EXTINF:0 tvg-id="max_by_hbo" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax
+#EXTINF:0 tvg-id="max_by_hbo" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",CINEMAX
 http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
-#EXTINF:0 tvg-id="red_by_hbo" tvg-logo="https://i.ibb.co/fG0DcwZ/Red-by-HBO-BEARTV.png",Red by HBO
+#EXTINF:0 tvg-id="red_by_hbo" tvg-logo="https://i.ibb.co/fG0DcwZ/Red-by-HBO-BEARTV.png",RED BY HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
 #EXTINF:-1  tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png", CINEMA WORLD
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
