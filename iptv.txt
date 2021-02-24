@@ -291,24 +291,3 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="kix_hd" tvg-logo="https://i.ibb.co/dD06Xmz/1200px-KIX-logo-svg.png", KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-
-
-
-#EXTINF:0  tvg-id="hbo" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
-http://gg.gg/cocahbo
-#EXTINF:0  tvg-id="red_by_hbo" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/340?cb=20210104162109",Red by HBO
-http://gg.gg/cocahbored
-#EXTINF:0  tvg-id="max_by_hbo" group-title="🌍 🇳 🇪 🇹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/1280px-HBO_Max_Logo.svg.png",Cinemax
-http://gg.gg/cocahbomax
-#EXTINF:0 tvg-id="disney_channel" group-title="👶| Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel
-http://gg.gg/cocadisney
-#EXTINF:0 tvg-id="disney_junior" group-title="👶| Kid" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738",Disney Junior
-http://gg.gg/cocajunior
-#EXTINF:0 tvg-id="kplus1hd"  group-title="🌸 𝕮𝖍𝖚́𝖈 𝕸𝖚̛̀𝖓𝖌 𝕹𝖆̆𝖒 𝕸𝖔̛́𝖎 🌸" tvg-logo="https://image.freepik.com/free-vector/face-mask-logo-template_23-2148691676.jpg",𝗞hẩu trang |  🍭+➊
-http://gg.gg/cocak1
-#EXTINF:0 tvg-id="kplusnshd"  group-title="🌸 𝕮𝖍𝖚́𝖈 𝕸𝖚̛̀𝖓𝖌 𝕹𝖆̆𝖒 𝕸𝖔̛́𝖎 🌸" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Global_Handwashing_Day_%28emblem%29.jpg",𝗞hử khuẩn |  🍭🅝🅢
-http://gg.gg/cocakns
-#EXTINF:0 tvg-id="kpluspchd"  group-title="🌸 𝕮𝖍𝖚́𝖈 𝕸𝖚̛̀𝖓𝖌 𝕹𝖆̆𝖒 𝕸𝖔̛́𝖎 🌸" tvg-logo="https://thumbs.dreamstime.com/z/illustration-art-keep-distance-alert-logo-isolated-background-keep-distance-alert-logo-178526888.jpg",𝗞hoảng cách | 🍭🅟🅒
-http://gg.gg/cocakpc
-#EXTINF:0 tvg-id="kpluspmhd" group-title="🌸 𝕮𝖍𝖚́𝖈 𝕸𝖚̛̀𝖓𝖌 𝕹𝖆̆𝖒 𝕸𝖔̛́𝖎 🌸" tvg-logo="https://thumbs.dreamstime.com/b/sign-team-get-together-not-allowed-avoid-crowds-people-vector-illustration-isolated-white-sign-team-get-together-not-177145873.jpg",𝗞hông tụ tập | 🍭🅟🅜
-http://gg.gg/cocakpm
