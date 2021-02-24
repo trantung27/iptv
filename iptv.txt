@@ -40,7 +40,7 @@ http://202.43.109.142:1935/THDT/thdttv/chunklist_w359372379.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/RgdpJCj/thdt2.png", THĐT2 (Miền Tây) - TH Đồng Tháp
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w230918482.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/UTSrapf.png", THTG - TH Tiền Giang
-http://thtg.vn:8001/stream_hi.m3u8
+http://livecdn.fptplay.net/sda/tiengiang_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/k8jNmTM/thbt.png", THBT - TH Bến Tre
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/wCP0U5u.png", ATV - TH An Giang
