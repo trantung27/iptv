@@ -257,7 +257,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="axn"  tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="arirang"   tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG
+#EXTINF:-1 tvg-id="arirang"   tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG KOREA
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2y38WHL/animaxlogobyvovanloc.png", ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
@@ -287,29 +287,5 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="fashion_tv"  tvg-logo="https://i.ibb.co/DLhCJ42/Fashion-TVlogobyvovanloc.png", FASHION TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-
-
-#EXTINF:0 tvg-id="kix_hd" group-title="PHIM" tvg-logo="httpss://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" type="stream", KIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#EXTINF:0 tvg-id="kix_hd" tvg-logo="httpss://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="HBO Red" group-title="PHIM" tvg-logo="httpss://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" type="stream",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-httpss://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8 
-#EXTINF:0 tvg-id="HBO Red" group-title="PHIM" tvg-logo="httpss://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" type="stream",HBO VN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hbogo/hbo_720p.stream/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="HBO Family" group-title="PHIM" tvg-logo="httpss://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png" type="stream",HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:0 tvg-id="HBO Hits" group-title="PHIM" tvg-logo="httpss://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png" type="stream",HBO HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:0 tvg-id="HBO Signature" group-title="PHIM" tvg-logo="httpss://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/200px-HBO_Signature_Asia.png" type="stream",HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:0 tvg-id="Red by HBO" group-title="PHIM" tvg-logo="httpss://htvc.vn/uploads/editor/images/422x278%20Red_by_HBO_colour.png" type="stream",Red by HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:0 tvg-id="Cinemax" group-title="PHIM" tvg-logo="httpss://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/220px-611-cinemax.png" type="stream",CINEMAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
