@@ -235,6 +235,7 @@ http://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd"  tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png", WARNER TV
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="discovery"  tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png", DISCOVERY CHANNEL
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="discovery_asia"  tvg-logo="https://i.ibb.co/3p1JnX4/Discovery-Asialogobyvovanloc.png", DISCOVERY ASIA
@@ -248,6 +249,17 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="animal_planet"  tvg-logo="https://i.ibb.co/KDDZzPB/Animal-Planetlogobyvovanloc.png", ANIMAL PLANET
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2y38WHL/animaxlogobyvovanloc.png", ANIMAX
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+#EXTINF:-1 tvg-id="boomerang"  tvg-logo="https://i.ibb.co/6PcT36X/boomeranglogobyvovanloc.png", BOOMERANG
+http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cbeebies"  tvg-logo="https://i.ibb.co/sCjXR0T/cbeebieslogobyvovanloc.png", BBC CBEEBIES
+https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Kb9TTcY/babyfirstlogobyvovanloc.png", BABY FIRST
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cartoon_network"  tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png", CARTOON NETWORK
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
+
 #EXTINF:0 tvg-id="foxsportshd" tvg-logo="https://i.ibb.co/Dth4w8X/fs1.png",FOX SPORTS
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="foxsports2hd" tvg-logo="https://i.ibb.co/NrVCHxs/fs2.png",FOX SPORTS 2
@@ -259,18 +271,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="arirang"   tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", ARIRANG KOREA
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2y38WHL/animaxlogobyvovanloc.png", ANIMAX
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-
-#EXTINF:-1 tvg-id="boomerang"  tvg-logo="https://i.ibb.co/6PcT36X/boomeranglogobyvovanloc.png", BOOMERANG
-http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cbeebies"  tvg-logo="https://i.ibb.co/sCjXR0T/cbeebieslogobyvovanloc.png", BBC CBEEBIES
-https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Kb9TTcY/babyfirstlogobyvovanloc.png", BABY FIRST
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cartoon_network"  tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png", CARTOON NETWORK
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
-
+#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/260.png?rand=995",BBC LIFESTYLE
+http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="asian_food_channel"  tvg-logo="https://i.ibb.co/4fZs4BK/Asian-Food-Networklogobyvovanloc.png", ASIAN FOOD NETWORK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://www.tlc-tw.com/images/logo.png",TLC
