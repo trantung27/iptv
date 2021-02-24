@@ -42,7 +42,7 @@ http://202.43.109.145:1935/thdt2/thdt2/chunklist_w230918482.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/UTSrapf.png", THTG - TH Tiền Giang
 http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/k8jNmTM/thbt.png", THBT - TH Bến Tre
-http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/wCP0U5u.png", ATV - TH An Giang
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="thvl1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png", THVL1 - TH Vĩnh Long
@@ -269,10 +269,12 @@ https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Kb9TTcY/babyfirstlogobyvovanloc.png", BABY FIRST
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cartoon_network"  tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png", CARTOON NETWORK
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="asian_food_channel"  tvg-logo="https://i.ibb.co/4fZs4BK/Asian-Food-Networklogobyvovanloc.png", ASIAN FOOD NETWORK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-logo="https://www.tlc-tw.com/images/logo.png",TLC
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="blue_ant_entertainment"  tvg-logo="https://i.ibb.co/Dpf6PDv/Blue-ante-ntertainmentlogobyvovanloc.png" , BLUE ANT ENTERTAINMENT
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="blue_ant_extreme"  tvg-logo="https://i.ibb.co/RBVkmhz/Blue-ant-extremelogobyvovanloc.png", BLUE ANT EXTREME
