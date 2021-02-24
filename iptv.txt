@@ -176,7 +176,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD_new1.smil/chunklist_w915
 #EXTINF:0 tvg-id="vtvcab15" tvg-logo="https://i.ibb.co/VJ7NB1C/vc15.png",VTVCab15
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD_new1.smil/chunklist_w1228867205_b2692000.m3u8
 #EXTINF:-1 tvg-id="vtvcab16_bong_da_tv_hd" tvg-logo="https://i.ibb.co/jykjJz9/vc16.png", VTVCab16 - Bóng Đá TV
-http://thatslife.cf/stream/channelid/487123997?ticket=B6CCD6B84096971D029BC5285B16BE1906D08420&profile=pass
+https://chungxda.github.io/m3u8/VTVCab/VTVCab16.m3u8
 #EXTINF:0 tvg-id="vtvcab17_yeah1_tv" tvg-logo="https://i.ibb.co/k1JbYhB/vc17.png",VTVCab17 - Yeah1 TV
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD_new1.smil/chunklist_w1598932811_b2692000.m3u8
 #EXTINF:0 tvg-id="vtvcab19_kenh_phim" tvg-logo="https://i.ibb.co/jW0ghCX/vc19.png",VTVCab19
