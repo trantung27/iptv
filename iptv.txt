@@ -289,5 +289,5 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="fashion_tv"  tvg-logo="https://i.ibb.co/DLhCJ42/Fashion-TVlogobyvovanloc.png", FASHION TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="kix_hd" tvg-logo="httpss://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX
+#EXTINF:0 tvg-id="kix_hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png", KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
