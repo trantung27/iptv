@@ -259,13 +259,13 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTVHDThieunhi_new1.smil/chunklist
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV_HD_GiaiTri_new1.smil/chunklist_w1341779026_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:0 tvg-id="sctv6_hd" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/yBZkgbv/SCTV6-logo.png", SCTV6
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV6HD_new1.smil/chunklist_w1547894533_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:0 tvg-id="sctv7_hd" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/9bTcpkk/sctv7.png", SCTV7
+#EXTINF:0 tvg-id="sctv7_hd" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/5vF8mg1/s7.png", SCTV7
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_SanKhau_new1.smil/chunklist_w1821182674_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:0 tvg-id="" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/CmFSqPD/sctv8.png", SCTV8 - VITV
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV8_SD_new1.smil/chunklist_w1407844518_b2292000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:0 tvg-id="SCTV9" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/CPs6vRm/sctv9.png", SCTV9
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA_new1.smil/chunklist_w1880725253_b1692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:0 tvg-id="sctv11_tv_star" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/vJK3ydn/sctv11.png", SCTV11
+#EXTINF:0 tvg-id="sctv11_tv_star" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/rdJCtdv/s11.png", SCTV11
 https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVVHNT_HD.smil/chunklist_w77415307_b2692000.m3u8
 #EXTINF:0 tvg-id="SCTV12" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/W0Tx4Lp/large-sctv12.png", SCTV12
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV12_HD_new1.smil/chunklist_w1783204026_b2692000.m3u8?uid=s2c526m574z5s4l5h4&cre=ChungXDA&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
