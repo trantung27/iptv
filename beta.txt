@@ -280,7 +280,7 @@ https://chungxda.github.io/m3u8/TV24/SCTV/SCTV16HD.m3u8
 #EXTINF:-1 tvg-id="sctv17_hd" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/QJLM0X2/sctv17.png", S Sport - SCTV17
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV17HD.m3u8
 #EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png", SCTV18
-https://chungxda.github.io/m3u8/TV24/SCTV/SCTV18.m3u8
+https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV18_HD.smil/chunklist_w83587666_b2692000.m3u8
 #EXTINF:-1 tvg-id="SCTV19" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/j8Fw3NM/sctv19.png", Channel T - SCTV19
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV19.m3u8
 #EXTINF:-1 tvg-id="SCTV20" group-title="VTVCab - SCTV" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png", SCTV20
