@@ -10,7 +10,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.ibb.co/Pzq0q46/htvkeylogobyvovanloc.png", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/bgxfhb3/HTV2.png", Vie Channel - HTV2
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://i.ibb.co/bgxfhb3/HTV2.png", Vie Channel - HTV2
 https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/DRHhR6V/HTV3.png", Dreams TV - HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
@@ -86,13 +86,13 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 
 #EXTINF:-1 tvg-id="antvhd"  tvg-logo="https://i.imgur.com/kzKZm1L.png", TH Công An Nhân Dân
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="quoc_hoi_tv"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", TH Quốc Hội Việt Nam
+#EXTINF:-1 tvg-id="quochoi"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", TH Quốc Hội Việt Nam
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="ttxvn"  tvg-logo="https://i.imgur.com/ziUs8oD.png", TH Thông Tấn Xã Việt Nam
+#EXTINF:-1 tvg-id="ttxvnhd"  tvg-logo="https://i.imgur.com/ziUs8oD.png", TH Thông Tấn Xã Việt Nam
 http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv"  tvg-logo="https://i.ibb.co/HKQDTDZ/NHANDAN.png", TH Nhân Dân
+#EXTINF:-1 tvg-id="nhandan"  tvg-logo="https://i.ibb.co/HKQDTDZ/NHANDAN.png", TH Nhân Dân
 https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="quoc_phong_tv"  tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", TH Quốc Phòng Việt Nam
+#EXTINF:-1 tvg-id="qpvnhd"  tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", TH Quốc Phòng Việt Nam
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd"  tvg-logo="https://i.ibb.co/6PKSL9G/vtc1logobyvovanloc.png", VTC1
