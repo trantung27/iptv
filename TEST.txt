@@ -1,8 +1,3 @@
-#EXTINF:0 tvg-id="vtvcab16_bong_da_tv" group-title="VTVCab" tvg-logo="httpss://imgstatic.vtvcab.vn/logos/BONG_DA_TV_SD_M.png" type="stream",VTVCab16 - Bóng Đá TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://chungxda.github.io/m3u8/VTVCab/VTVCab16.m3u8
-#EXTINF:0 tvg-id="vtvcab16_bong_da_tv" group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/BONGDA_HD_M.png" type="stream",VTVCab16 HD - Bóng Đá TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://chungxda.github.io/m3u8/VTVCab/VTVCab16HD.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/foh5NTi.png", HGTV - TH Hậu Giang
-http://livecdn.fptplay.net/sda/tiengiang_2000.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/foh5NTi.png", test
+http://livecdn.fptplay.net/sda/dongthap_2000.stream/playlist.m3u8
