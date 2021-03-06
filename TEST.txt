@@ -1,7 +1,7 @@
 
 #EXTINF:-1  tvg-logo="", test
-https://livecdn.fptplay.net/sdc/mientay_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdc/binhphuoc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="", test
-https://livecdn.fptplay.net/sdc/mientay_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="", test
-http://livecdn.fptplay.net/sda/cantho_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
