@@ -5,7 +5,7 @@ https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.ibb.co/NLh55qm/htv9logobyvovanloc.png", HTV9 - TPHCM
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv_the_thao" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png", HTV Thể Thao - TPHCM
-http://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.ibb.co/yXjF0dk/htv1logobyvovanloc.png", HTV1 - TPHCM
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.ibb.co/Pzq0q46/htvkeylogobyvovanloc.png", HTV Key - TPHCM
@@ -15,21 +15,21 @@ https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/DRHhR6V/HTV3.png", Dreams TV - HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_thuan_viet" tvg-logo="https://i.ibb.co/GQC0WbM/htvcthuanvietlogobyvoavnloc.png", HTVC Thuần Việt
-http://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_thuan_viet_hd" tvg-logo="https://i.ibb.co/sw7LBc2/htvcthuanviethdbyvovanloc.png", HTVC Thuần Việt HD
 http://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" tvg-logo="https://i.ibb.co/hsSVb7J/DLCS.png", HTVC Du Lịch & Cuộc Sống
-http://livecdn.fptplay.net/hda/htvcdulich_2000.stream/chunklist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_phu_nu" tvg-logo="https://i.ibb.co/B3r7jFs/htvcphunulogobyvovanloc.png", HTVC Phụ Nữ
-http://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_phim_hd" tvg-logo="https://i.ibb.co/ck4mf6v/htvcphimlogobyvovanloc.png", HTVC Phim
 http://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_gia_dinh" tvg-logo="https://i.ibb.co/CQpkQs4/htvcgiadinhlogobyvovanloc.png", HTVC Gia Đình
-http://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" tvg-logo="https://i.ibb.co/9thTThy/CPlus-Logo-Final.png", HTVC Plus
-http://livecdn.fptplay.net/sdb/htvcplus_2000.stream/chunklist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_ca_nhac" tvg-logo="https://i.ibb.co/ZVPyd9D/htvccanhaclogobyvovanloc.png", HTVC Ca Nhạc
-http://livecdn.fptplay.net/sdb/htvcmusic_2000.stream/chunklist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?
 #EXTINF:-1 tvg-id="htvc_fbnc"   tvg-logo="https://i.ibb.co/R7NdXcF/FBNClogobyvovanloc.png", FBNC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", Long An
@@ -75,9 +75,9 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="http://brt.vn/common/v1/images/logo-footer.png", Bà Rịa Vũng Tàu
 https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/AwMCnAl.png", Bình Phước 1
-https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mt3FtRK/bptv2.png", Home TV - Bình Phước 2
-https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc1"  tvg-logo="https://i.ibb.co/6PKSL9G/vtc1logobyvovanloc.png", VTC1
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
