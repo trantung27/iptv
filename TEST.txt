@@ -4,4 +4,4 @@ https://livecdn.fptplay.net/sdc/mientay_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="", test
 https://livecdn.fptplay.net/sdc/mientay_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="", test
-https://livecdn.fptplay.net/sdc/mientay_hls.smil/chunklist_b2500000.m3u8
+http://livecdn.fptplay.net/sda/cantho_2000.stream/playlist.m3u8
