@@ -4,4 +4,4 @@ https://livecdn.fptplay.net/sdc/binhphuoc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="", test
 https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="", test
-https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda/nhandan_2000.stream/chunklist.m3u8
