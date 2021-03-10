@@ -191,8 +191,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="axnhd"  tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png", AXN
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="arirang"   tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png", Arirang Korea
-http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 tvg-id="bbc_lifestyle" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/260.png?rand=995",BBC Lifestyle
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://i.ibb.co/4fZs4BK/Asian-Food-Networklogobyvovanloc.png", Asian Food Network
