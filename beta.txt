@@ -48,7 +48,7 @@ https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png", Vĩnh Long 2
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/71sTFLv/thtpct.png", Cần Thơ
-https://tv.canthotv.vn/live/tv/tv.m3u8
+hthttp://livecdn.fptplay.net/sda/cantho_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/foh5NTi.png", Hậu Giang
 http://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/KrgjVXt/thtv.png", Trà Vinh
