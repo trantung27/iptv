@@ -1,7 +1,3 @@
 
 #EXTINF:-1  tvg-logo="", test
-https://livecdn.fptplay.net/sdc/binhphuoc_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-logo="", test
-https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-logo="", test
-https://livecdn.fptplay.net/hda/nhandan_2000.stream/chunklist.m3u8
+http://hthanhmedia:kodanlainguonnhe!3@hthanhmedias.duckdns.org:9981/stream/channelid/1266361788
