@@ -145,11 +145,11 @@ https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601
 #EXTINF:-1 tvg-id="vtv5hdtn"  tvg-logo="https://i.ibb.co/9y5jXY2/vtv5tnlogobyvovanloc.png", VTV5 Tây Nguyên
 https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.ibb.co/RvQpdYq/HBO.png" ,HBO
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.ibb.co/RvQpdYq/HBO.png" ,HBO
 http://14.169.59.87:8889/rtp/232.84.2.138:10648
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://i.ibb.co/HxTDzP7/cinemax.png" ,Cinemax
+#EXTINF:-1 tvg-id="max_by_hbo" tvg-logo="https://i.ibb.co/HxTDzP7/cinemax.png" ,Cinemax
 http://14.169.59.87:8889/rtp/232.84.2.139:10654
-#EXTINF:-1 tvg-id="redbyhbohd" tvg-logo="https://i.ibb.co/6nW1Rxw/redbyhbo.png",Red By HBO
+#EXTINF:-1 tvg-id="red_by_hbo" tvg-logo="https://i.ibb.co/6nW1Rxw/redbyhbo.png",Red By HBO
 http://14.169.59.87:8889/rtp/232.84.2.172:10840
 #EXTINF:-1 tvg-id="foxhd" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", Fox
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
