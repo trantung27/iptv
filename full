@@ -65,7 +65,7 @@ https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/XL0QdzK/btv2.png", Bình Dương 2
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="btv9_an_vien"  tvg-logo="https://i.ibb.co/Fx90syf/btv9.png", An Viên TV (B Channel) - Bình Dương 9
+#EXTINF:-1 tvg-id="btv9_an_vien"  tvg-logo="https://i.ibb.co/Fx90syf/btv9.png", An Viên TV - Bình Dương 9
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/8rGiYuk.png", Tây Ninh
 http://livecdn.fptplay.net/sda/tayninhhd_2000.stream/playlist.m3u8
@@ -76,9 +76,9 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="http://brt.vn/common/v1/images/logo-footer.png", Bà Rịa Vũng Tàu
 https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/AwMCnAl.png", Bình Phước 1
-https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mt3FtRK/bptv2.png", Home TV - Bình Phước 2
-https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.imgur.com/kzKZm1L.png", TH Công An Nhân Dân
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
