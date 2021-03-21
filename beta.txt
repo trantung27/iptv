@@ -76,9 +76,9 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="http://brt.vn/common/v1/images/logo-footer.png", Bà Rịa Vũng Tàu
 https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/AwMCnAl.png", Bình Phước 1
-https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mt3FtRK/bptv2.png", Home TV - Bình Phước 2
-https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.imgur.com/kzKZm1L.png", TH Công An Nhân Dân
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
