@@ -91,6 +91,8 @@ https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDA
 #EXTINF:-1 tvg-id="quoc_phong_tv" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", TH Quốc Phòng Việt Nam
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="vovtv" tvg-logo="https://i.ibb.co/HFnKTsv/vov.png", VOV TV
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc1"  tvg-logo="https://i.ibb.co/6PKSL9G/vtc1logobyvovanloc.png", VTC1
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc2"  tvg-logo="https://i.ibb.co/gJ8Nkd6/vtc2logobyvovanloc.png", VTC2
