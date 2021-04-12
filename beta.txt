@@ -146,9 +146,9 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn"  tvg-logo="https://i.ibb.co/9y5jXY2/vtv5tnlogobyvovanloc.png", VTV5 Tây Nguyên
 https://vtvgolivesbd.vtvdigital.vn/aaccd401bbf4dc48a73895d3ca8c87331602594004638/vtv5tn.smil/chunklist_b1728000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dmKs3wh/vc1.png", Vie Giải Trí - VTVCab1
+#EXTINF:-1 tvg-id="vtvcab1_giai_tri_tv" tvg-logo="https://i.ibb.co/dmKs3wh/vc1.png", Vie Giải Trí - VTVCab1
 https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/08d53c131866c1632de0d55b2088619f/1618306204419/vtvcab/live/hd_vtvcab_1_test/TV_HD/hd_vtvcab_1_test_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q93b4Zg/vc10.png", Vie Dramas - VTVCab10
+#EXTINF:-1 tvg-id="vtvcab7_vie_dramas" tvg-logo="https://i.ibb.co/q93b4Zg/vc10.png", Vie Dramas - VTVCab10
 https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/bb56082bb13d75e4cac0521a305512d9/1618306623040/vtvcab/live/hd_vtvcab_10/TV_HD/hd_vtvcab_10_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png", Fox
