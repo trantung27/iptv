@@ -187,10 +187,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="fox_sports3"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",Fox Sports 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="axnhd"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", AXNhttps://i.ibb.co/T1sYdNk/1621737210897.jpg
+#EXTINF:-1 tvg-id="axnhd"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", AXN
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bbc_lifestyle" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",BBC Lifestyle
-http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8https://i.ibb.co/T1sYdNk/1621737210897.jpg
+http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", Asian Food Network
 http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",TLC
