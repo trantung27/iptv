@@ -158,14 +158,16 @@ https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="discovery_asia" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", Discovery Asia
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="animalhd"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",TLC
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="national_geographic"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bbc_earth"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg" , BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="animalhd"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
@@ -193,8 +195,6 @@ https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", Asian Food Network
 http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",TLC
-http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="blue_ant_entertainment"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg" , Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="blue_ant_extreme"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", Blue Ant Extreme
