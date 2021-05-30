@@ -199,88 +199,88 @@ https://rlink.vn/cocacab19
 https://rlink.vn/beartv-vtvcab23
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
-#EXTINF:0 tvg-id="SCTV1" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", SCTV1 HD - Hài
-#http://gg.gg/coocaasctv1
+#EXTINF:0 tvg-id="SCTV1" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV1 HD - Hài
+http://gg.gg/coocaasctv1
 https://rlink.vn/cocasctv1
 https://rlink.vn/beartv-sctv1
-#EXTINF:0 tvg-id="sctv2_hd" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png", SCTV2 HD - AMC
-#http://gg.gg/coocaasctv2
+#EXTINF:0 tvg-id="sctv2_hd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV2 HD - AMC
+http://gg.gg/coocaasctv2
 https://rlink.vn/cocasctv2
 https://rlink.vn/beartv-sctv2
-#EXTINF:0 tvg-id="sctv3_see_tv"  tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png", SCTV3 HD - See TV
-#http://gg.gg/coocaasctv3
+#EXTINF:0 tvg-id="sctv3_see_tv"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV3 HD - See TV
+http://gg.gg/coocaasctv3
 https://rlink.vn/cocasctv3
 https://rlink.vn/beartv-sctv3
-#EXTINF:-1 tvg-id="SCTV4" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",SCTV 4 HD - Giải Trí
-#http://gg.gg/coocaasctv4
+#EXTINF:-1 tvg-id="SCTV4" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",SCTV 4 HD - Giải Trí
+http://gg.gg/coocaasctv4
 https://rlink.vn/cocasctv4
 https://rlink.vn/beartv-sctv4
-#EXTINF:0 tvg-id="sctv6_hd" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png", SCTV6 HD - SNTV
-#http://gg.gg/coocaasctv6
+#EXTINF:0 tvg-id="sctv6_hd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV6 HD - SNTV
+http://gg.gg/coocaasctv6
 https://rlink.vn/cocasctv6
 https://rlink.vn/beartv-sctv6
-#EXTINF:0 tvg-id="sctv7_hd"  tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png", SCTV7 HD - SHOW
-#http://gg.gg/coocaasctv7
+#EXTINF:0 tvg-id="sctv7_hd"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV7 HD - SHOW
+http://gg.gg/coocaasctv7
 https://rlink.vn/cocasctv7
 https://rlink.vn/beartv-sctv7
-#EXTINF:0 tvg-id=""  tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png", SCTV8 HD - VITV
-#http://gg.gg/coocaasctv8
+#EXTINF:0 tvg-id=""  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV8 HD - VITV
+http://gg.gg/coocaasctv8
 https://rlink.vn/cocasctv8
 https://rlink.vn/beartv-sctv8
-#EXTINF:0 tvg-id="SCTV9" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 - Phim TVB
-#http://gg.gg/coocaasctv9
+#EXTINF:0 tvg-id="SCTV9" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV9 - Phim TVB
+http://gg.gg/coocaasctv9
 https://rlink.vn/cocasctv9
 https://rlink.vn/beartv-sctv9
-#EXTINF:0 tvg-id="sctv11_tv_star" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png", SCTV11 HD - TV STAR
-#http://gg.gg/coocaasctv11
+#EXTINF:0 tvg-id="sctv11_tv_star" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV11 HD - TV STAR
+http://gg.gg/coocaasctv11
 https://rlink.vn/cocasctv11
 https://rlink.vn/beartv-sctv11
-#EXTINF:0 tvg-id="SCTV12" tvg-logo="https://i.ibb.co/SKG7SMb/SCTV12-BEARTV.png", SCTV12 HD - Du Lịch
-#http://gg.gg/coocaasctv12
+#EXTINF:0 tvg-id="SCTV12" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV12 HD - Du Lịch
+http://gg.gg/coocaasctv12
 https://rlink.vn/cocasctv12
 https://rlink.vn/beartv-sctv12
-#EXTINF:-1 tvg-id="sctv13_lady_tv" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png", SCTV13 HD - Lady TV
+#EXTINF:-1 tvg-id="sctv13_lady_tv" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV13 HD - Lady TV
 #http://gg.gg/coocaasctv13
 https://rlink.vn/cocasctv13
 https://rlink.vn/beartv-sctv13
-#EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" tvg-logo="https://i.ibb.co/0YtfJK8/SCTV14-BEARTV.png", SCTV14 HD - Kênh Phim Việt
-#http://gg.gg/coocaasctv14
+#EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV14 HD - Kênh Phim Việt
+http://gg.gg/coocaasctv14
 https://rlink.vn/cocasctv14
 https://rlink.vn/beartv-sctv14
-#EXTINF:-1 tvg-id="sctv15_s_sport_2"  tvg-logo="https://i.ibb.co/1dFdSLF/SCTV15-BEARTV.png", SCTV15 HD - Ssport 2
-#http://gg.gg/coocaasctv15
-#https://rlink.vn/cocasctv15
+#EXTINF:-1 tvg-id="sctv15_s_sport_2"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV15 HD - Ssport 2
+http://gg.gg/coocaasctv15
+https://rlink.vn/cocasctv15
 https://rlink.vn/beartv-sctv15
-#EXTINF:-1 tvg-id="SCTV16"  tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png", SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
-#http://gg.gg/coocaasctv16
+#EXTINF:-1 tvg-id="SCTV16"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
+http://gg.gg/coocaasctv16
 https://rlink.vn/cocasctv16
 https://rlink.vn/beartv-sctv16
-#EXTINF:-1 tvg-id="sctv17_hd" tvg-logo="https://i.ibb.co/nRbQjXc/SCTV17-BEARTV.png", SCTV17 HD - Ssport
-#http://gg.gg/coocaasctv17
-#https://rlink.vn/cocasctv17
+#EXTINF:-1 tvg-id="sctv17_hd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV17 HD - Ssport
+http://gg.gg/coocaasctv17
+https://rlink.vn/cocasctv17
 https://rlink.vn/beartv-sctv17
-#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png", SCTV18 HD - Kênh 18
-#http://gg.gg/coocaasctv18
+#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV18 HD - Kênh 18
+http://gg.gg/coocaasctv18
 https://rlink.vn/cocasctv18
 https://rlink.vn/beartv-sctv18
-#EXTINF:-1 tvg-id="SCTV19"  tvg-logo="https://i.ibb.co/TwKfHGD/SCTV19-BEARTV.png", SCTV19 HD - Channel T
-#http://gg.gg/coocaasctv19
+#EXTINF:-1 tvg-id="SCTV19"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV19 HD - Channel T
+http://gg.gg/coocaasctv19
 https://rlink.vn/cocasctv19
 https://rlink.vn/beartv-sctv19
-#EXTINF:-1 tvg-id="SCTV20"  tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png", SCTV20 HD - Ca Nhạc
-#http://gg.gg/coocaasctv20
+#EXTINF:-1 tvg-id="SCTV20"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV20 HD - Ca Nhạc
+http://gg.gg/coocaasctv20
 https://rlink.vn/cocasctv20
 https://rlink.vn/beartv-sctv20
-#EXTINF:-1 tvg-id="SCTV22"  tvg-logo="https://i.ibb.co/SwpzGqp/SCTV22-BEARTV.png", SCTV22 HD - Ssport 1
-#http://gg.gg/coocaasctv22
-#https://rlink.vn/sctv22
+#EXTINF:-1 tvg-id="SCTV22"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV22 HD - Ssport 1
+http://gg.gg/coocaasctv22
+https://rlink.vn/sctv22
 https://rlink.vn/beartv-sctv22
-#EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd"  tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png", SCTV HD Phim Tổng Hợp
-#https://rlink.vn/beartv-sctvth
+#EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", SCTV HD Phim Tổng Hợp
+https://rlink.vn/beartv-sctvth
 http://gg.gg/coocaasctvpth
 https://rlink.vn/cocasctvpth
-#EXTINF:-1 tvg-id="s_sport_3"  tvg-logo="https://i.ibb.co/NNpj992/BTV5-BEARTV.png", BTV5 HD - Ssport 3
-#http://gg.gg/coocaabtv5
+#EXTINF:-1 tvg-id="s_sport_3"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg", BTV5 HD - Ssport 3
+http://gg.gg/coocaabtv5
 https://rlink.vn/cocabtv5
 https://rlink.vn/beartv-sctvbtv5
 
