@@ -145,56 +145,56 @@ https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab1 - Vie Giải Trí
 https://rlink.vn/beartv-vtvcab1
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.143:8832
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.143:8832
 https://rlink.vn/cocacab1
 #EXTINF:0 tvg-id="VTVcab 2 - Phim Việt" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab2 - Phim Việt
 https://rlink.vn/beartv-vtvcab2
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
 #EXTINF:0 tvg-id="vtvcab3_the_thao_tv_sd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg" ,VTVCab3 - Thể Thao TV
 https://rlink.vn/beartv-vtvcab3
 https://rlink.vn/cocacab3
-#http://gg.gg/cocacab3
+http://gg.gg/cocacab3
 #EXTINF:0 tvg-id="VTVcab 4 - Văn hóa" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg" ,VTVCab4
 https://rlink.vn/beartv-vtvcab4
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.2.190:10924
+http://thanhfpt.duckdns.org:4567/rtp/232.84.2.190:10924
 #EXTINF:0 tvg-id="vtvcab5_e_channel" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab5 - E Channel
 https://rlink.vn/beartv-vtvcab5
 https://rlink.vn/cocacab5
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.2.190:10924
+http://thanhfpt.duckdns.org:4567/rtp/232.84.2.190:10924
 #EXTINF:0 tvg-id="vtvcab6_haytv" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab6 - HayTV
 https://rlink.vn/beartv-vtvcab6
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.220:9294
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.220:9294
 #EXTINF:0 tvg-id="vtvcab10" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg ",VTVCab7
 https://rlink.vn/beartv-vtvcab7
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.26:8130
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.26:8130
 #EXTINF:0 tvg-id="vtvcab8_bibi" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab 8 - BIBI
 https://rlink.vn/beartv-vtvcab8
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.206:9210
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.206:9210
 #EXTINF:0 tvg-id="vtvcab9_infotv" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab9 - Info TV
 https://rlink.vn/beartv-vtvcab9
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.2.191:10930
+http://thanhfpt.duckdns.org:4567/rtp/232.84.2.191:10930
 #EXTINF:0 tvg-id="vtvcab19_kenh_phim" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab10 
 https://rlink.vn/beartv-vtvcab10
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.205:9204
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.205:9204
 #EXTINF:0 tvg-id="vtvcab12_style_tv"tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab12 - StyleTV
 https://rlink.vn/beartv-vtvcab12
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.244:9438
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.244:9438
 #EXTINF:0 tvg-id="vtvcab15hd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab15
 https://rlink.vn/beartv-vtvcab15
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.2.192:10936
+http://thanhfpt.duckdns.org:4567/rtp/232.84.2.192:10936
 #EXTINF:0 tvg-id="vtvcab16_bong_da_tv"  tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVcab16 - Bóng Đá TV
-#https://rlink.vn/cocacab16
-#http://gg.gg/cocacab16
+https://rlink.vn/cocacab16
+http://gg.gg/cocacab16
 #EXTINF:0 tvg-id="vtvcab17_yeah1_tv" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab17 - Yeah1! TV
 https://rlink.vn/beartv-vtvcab17
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.217:9276
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.217:9276
 #EXTINF:0 tvg-id="vtvcab7_vie_dramas" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab19 - Vie Dramas
-#https://rlink.vn/beartv-vtvcab19
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.169:8988
+https://rlink.vn/beartv-vtvcab19
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.169:8988
 https://rlink.vn/cocacab19
 #EXTINF:0 tvg-id="VTVcab 20 - V Family" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab20 - V Family
-#https://rlink.vn/beartv-vtvcab20
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.245:10344
+https://rlink.vn/beartv-vtvcab20
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.245:10344
 #EXTINF:0 tvg-id="vtvcab23_golf_hd" tvg-logo="https://i.ibb.co/T1sYdNk/1621737210897.jpg",VTVCab23 - GOLF TV
 https://rlink.vn/beartv-vtvcab23
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
