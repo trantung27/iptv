@@ -30,7 +30,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_ca_nhac" tvg-logo="https://i.ibb.co/ZVPyd9D/htvccanhaclogobyvovanloc.png", HTVC Ca Nhạc
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_fbnc" tvg-logo="https://i.ibb.co/R7NdXcF/FBNClogobyvovanloc.png", FBNC
+#EXTINF:-1 tvg-id="htvc_fbnc" tvg-logo="https://i.ibb.co/R7NdXcF/FBNClogobyvovanloc.png", FBNC ● HTVC
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="http://la34.com.vn/wp-content/themes/la34/assets/img/logo.png", Long An
@@ -80,16 +80,16 @@ https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/mt3FtRK/bptv2.png", Home TV ● Bình Phước 2
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.imgur.com/kzKZm1L.png", Công An Nhân Dân
-https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="quoc_hoi_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội Việt Nam
-https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="ttxvn" tvg-logo="https://i.imgur.com/ziUs8oD.png", Thông Tấn Xã Việt Nam
 https://livecdn.fptplay.net/sda/ttxvn_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" tvg-logo="https://i.ibb.co/HKQDTDZ/NHANDAN.png", Nhân Dân
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.imgur.com/kzKZm1L.png", Công An Nhân Dân
+https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="quoc_phong_tv" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", Quốc Phòng Việt Nam
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="quoc_hoi_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội Việt Nam
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 tvg-id="nhan_dan_tv" tvg-logo="https://i.ibb.co/HKQDTDZ/NHANDAN.png", Nhân Dân
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vovtv" tvg-logo="https://i.ibb.co/HFnKTsv/vov.png", VOV TV
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
@@ -97,7 +97,7 @@ https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc2"  tvg-logo="https://i.ibb.co/gJ8Nkd6/vtc2logobyvovanloc.png", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3"   tvg-logo="https://i.ibb.co/dL4Rvhm/VTC3.png", On Sports ● VTC3
+#EXTINF:-1 tvg-id="vtc3"   tvg-logo="https://i.ibb.co/fC9db4H/VTC3-logo-2018-svg.png", VTC3
 https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc4hd"  tvg-logo="https://i.ibb.co/YNsvzL2/vtc4logobyvovanloc.png", VTC4
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
