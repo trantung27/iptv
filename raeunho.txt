@@ -4,7 +4,7 @@ https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vie Channel 💙 𝓗𝓣𝓥2
+#EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vie Channel 💙 𝐇𝐓𝐕𝟐
 https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Dreams TV 💙 HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
