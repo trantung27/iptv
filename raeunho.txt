@@ -1,34 +1,34 @@
-#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV7
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝟕
 https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV9
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝟗
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV1
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝟏
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vie Channel 💙 𝐇𝐓𝐕𝟐
+#EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐕𝐢𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💙 𝐇𝐓𝐕𝟐
 https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Dreams TV 💙 𝗛𝗧𝗩𝟯
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐃𝐫𝐞𝐚𝐦𝐬 𝐓𝐕 💙 𝐇𝐓𝐕𝟑
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV Key
+#EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕 𝐊𝐞𝐲
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htv_the_thao" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV Thể Thao
+#EXTINF:-1 tvg-id="htv_the_thao" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕 𝐓𝐡𝐞 𝐓𝐡𝐚𝐨
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_thuan_viet" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Thuần Việt
+#EXTINF:-1 tvg-id="htvc_thuan_viet" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝐂 𝐓𝐡𝐮𝐚𝐧 𝐕𝐢𝐞𝐭
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_thuan_viet_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Thuần Việt HD
+#EXTINF:-1 tvg-id="htvc_thuan_viet_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝐂 𝐓𝐡𝐮𝐚𝐧 𝐕𝐢𝐞𝐭 𝐇𝐃
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_gia_dinh" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Gia Đình
+#EXTINF:-1 tvg-id="htvc_gia_dinh" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝐂 𝐆𝐢𝐚 𝐃𝐢𝐧𝐡
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Du Lịch & Cuộc Sống
+#EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝐂 𝐃𝐮 𝐋𝐢𝐜𝐡 & 𝐂𝐮𝐨𝐜 𝐒𝐨𝐧𝐠
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_phu_nu" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Phụ Nữ
+#EXTINF:-1 tvg-id="htvc_phu_nu" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝐂 𝐏𝐡𝐮 𝐍𝐮
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_phim_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Phim
+#EXTINF:-1 tvg-id="htvc_phim_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝐂 𝐏𝐡𝐢𝐦
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_plus_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Plus
+#EXTINF:-1 tvg-id="htvc_plus_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝐂 𝐏𝐥𝐮𝐬
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_ca_nhac" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Ca Nhạc
+#EXTINF:-1 tvg-id="htvc_ca_nhac" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐇𝐓𝐕𝐂 𝐂𝐚 𝐍𝐡𝐚𝐜
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_fbnc" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", FBNC 💙 HTVC
+#EXTINF:-1 tvg-id="htvc_fbnc" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝐅𝐁𝐍𝐂 💙 𝐇𝐓𝐕𝐂
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Long An
