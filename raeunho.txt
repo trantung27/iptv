@@ -141,75 +141,75 @@ https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV9
 https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="foxhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒐𝒙
+#EXTINF:-1 tvg-id="foxhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒐𝒙 
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fox_movies" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒐𝒙 𝑴𝒐𝒗𝒊𝒆𝒔
+#EXTINF:-1 tvg-id="fox_movies" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒐𝒙 𝑴𝒐𝒗𝒊𝒆𝒔 
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fox_family_movies_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒐𝒙 𝑭𝒂𝒎𝒊𝒍𝒚 𝑴𝒐𝒗𝒊𝒆𝒔
+#EXTINF:-1 tvg-id="fox_family_movies_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒐𝒙 𝑭𝒂𝒎𝒊𝒍𝒚 𝑴𝒐𝒗𝒊𝒆𝒔 
 http://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="warner_tv_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑾𝒂𝒓𝒏𝒆𝒓 𝑻𝑽
+#EXTINF:-1 tvg-id="warner_tv_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑾𝒂𝒓𝒏𝒆𝒓 𝑻𝑽 
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="cinema_world_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑪𝒊𝒏𝒆𝒎𝒂 𝑾𝒐𝒓𝒍𝒅
+#EXTINF:-1 tvg-id="cinema_world_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑪𝒊𝒏𝒆𝒎𝒂 𝑾𝒐𝒓𝒍𝒅 
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑷𝒂𝒓𝒂𝒎𝒐𝒖𝒏𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑷𝒂𝒓𝒂𝒎𝒐𝒖𝒏𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="discoveryhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒊𝒔𝒄𝒐𝒗𝒆𝒓𝒚 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
+#EXTINF:-1 tvg-id="discoveryhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒊𝒔𝒄𝒐𝒗𝒆𝒓𝒚 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="discovery_asia" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒊𝒔𝒄𝒐𝒗𝒆𝒓𝒚 𝑨𝒔𝒊𝒂
+#EXTINF:-1 tvg-id="discovery_asia" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒊𝒔𝒄𝒐𝒗𝒆𝒓𝒚 𝑨𝒔𝒊𝒂 
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="animalhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒏𝒊𝒎𝒂𝒍 𝑷𝒍𝒂𝒏𝒆𝒕
+#EXTINF:-1 tvg-id="animalhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒏𝒊𝒎𝒂𝒍 𝑷𝒍𝒂𝒏𝒆𝒕 
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑻𝑳𝑪
+#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑻𝑳𝑪 
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="outdoor_channel"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑶𝒖𝒕𝒅𝒐𝒐𝒓 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
+#EXTINF:-1 tvg-id="outdoor_channel"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑶𝒖𝒕𝒅𝒐𝒐𝒓 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="national_geographic"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑵𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑮𝒆𝒐𝒈𝒓𝒂𝒑𝒉𝒊𝒄
+#EXTINF:-1 tvg-id="national_geographic"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑵𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑮𝒆𝒐𝒈𝒓𝒂𝒑𝒉𝒊𝒄 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑵𝒂𝒕. 𝑮𝒆𝒐. 𝑾𝒊𝒍𝒅
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑵𝒂𝒕. 𝑮𝒆𝒐. 𝑾𝒊𝒍𝒅 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="bbc_earth"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg" , 𝑩𝑩𝑪 𝑬𝒂𝒓𝒕𝒉
+#EXTINF:-1 tvg-id="bbc_earth"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg" , 𝑩𝑩𝑪 𝑬𝒂𝒓𝒕𝒉 
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒏𝒊𝒎𝒂𝒙
+#EXTINF:-1 tvg-id="animaxhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒏𝒊𝒎𝒂𝒙 
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-#EXTINF:-1 tvg-id="boomerang"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑩𝒐𝒐𝒎𝒆𝒓𝒂𝒏𝒈
+#EXTINF:-1 tvg-id="boomerang"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑩𝒐𝒐𝒎𝒆𝒓𝒂𝒏𝒈 
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cbeebies"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑩𝑩𝑪 𝑪𝑩𝒆𝒆𝒃𝒊𝒆𝒔
+#EXTINF:-1 tvg-id="cbeebies"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑩𝑩𝑪 𝑪𝑩𝒆𝒆𝒃𝒊𝒆𝒔 
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑩𝒂𝒃𝒚 𝑭𝒊𝒓𝒔𝒕
+#EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑩𝒂𝒃𝒚 𝑭𝒊𝒓𝒔𝒕 
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑪𝒂𝒓𝒕𝒐𝒐𝒏 𝑵𝒆𝒕𝒘𝒐𝒓𝒌
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒂 𝑽𝒊𝒏𝒄𝒊
+#EXTINF:-1 tvg-id="cartoonhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑪𝒂𝒓𝒕𝒐𝒐𝒏 𝑵𝒆𝒕𝒘𝒐𝒓𝒌 
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8 
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒂 𝑽𝒊𝒏𝒄𝒊 
 http://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="foxsportshd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑭𝒐𝒙 𝑺𝒑𝒐𝒓𝒕𝒔
+#EXTINF:0 tvg-id="foxsportshd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑭𝒐𝒙 𝑺𝒑𝒐𝒓𝒕𝒔 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="foxsports2hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑭𝒐𝒙 𝑺𝒑𝒐𝒓𝒕𝒔 𝟐
+#EXTINF:0 tvg-id="foxsports2hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑭𝒐𝒙 𝑺𝒑𝒐𝒓𝒕𝒔 𝟐 
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="fox_sports3"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑭𝒐𝒙 𝑺𝒑𝒐𝒓𝒕𝒔 𝟑
+#EXTINF:0 tvg-id="fox_sports3"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑭𝒐𝒙 𝑺𝒑𝒐𝒓𝒕𝒔 𝟑 
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="axnhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝑿𝑵
+#EXTINF:-1 tvg-id="axnhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝑿𝑵 
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbc_lifestyle" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑩𝑩𝑪 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆
+#EXTINF:-1 tvg-id="bbc_lifestyle" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝑩𝑩𝑪 𝑳𝒊𝒇𝒆𝒔𝒕𝒚𝒍𝒆 
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒔𝒊𝒂𝒏 𝑭𝒐𝒐𝒅 𝑵𝒆𝒕𝒘𝒐𝒓𝒌
+#EXTINF:-1 tvg-id="afnhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒔𝒊𝒂𝒏 𝑭𝒐𝒐𝒅 𝑵𝒆𝒕𝒘𝒐𝒓𝒌 
 http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="blue_ant_entertainment"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg" , 𝑩𝒍𝒖𝒆 𝑨𝒏𝒕 𝑬𝒏𝒕𝒆𝒓𝒕𝒂𝒊𝒏𝒎𝒆𝒏𝒕
+#EXTINF:-1 tvg-id="blue_ant_entertainment"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg" , 𝑩𝒍𝒖𝒆 𝑨𝒏𝒕 𝑬𝒏𝒕𝒆𝒓𝒕𝒂𝒊𝒏𝒎𝒆𝒏𝒕 
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="blue_ant_extreme"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑩𝒍𝒖𝒆 𝑨𝒏𝒕 𝑬𝒙𝒕𝒓𝒆𝒎𝒆
+#EXTINF:-1 tvg-id="blue_ant_extreme"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑩𝒍𝒖𝒆 𝑨𝒏𝒕 𝑬𝒙𝒕𝒓𝒆𝒎𝒆 
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="channelvhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑽
+#EXTINF:-1 tvg-id="channelvhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑽 
 http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxlifehd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒐𝒙 𝑳𝒊𝒇𝒆
+#EXTINF:-1 tvg-id="foxlifehd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒐𝒙 𝑳𝒊𝒇𝒆 
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="kbsworld"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑲𝑩𝑺 𝑾𝒐𝒓𝒍𝒅
+#EXTINF:-1 tvg-id="kbsworld"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑲𝑩𝑺 𝑾𝒐𝒓𝒍𝒅 
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="arirang" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒓𝒊𝒓𝒂𝒏𝒈 𝑲𝒐𝒓𝒆𝒂
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒓𝒊𝒓𝒂𝒏𝒈 𝑲𝒐𝒓𝒆𝒂 
 https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="kix_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑲𝑰𝑿
+#EXTINF:-1 tvg-id="kix_hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑲𝑰𝑿 
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fashion_tv"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒂𝒔𝒉𝒊𝒐𝒏 𝑻𝑽
+#EXTINF:-1 tvg-id="fashion_tv"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝒂𝒔𝒉𝒊𝒐𝒏 𝑻𝑽 
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
