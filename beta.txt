@@ -208,7 +208,7 @@ http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxlifehd"  tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png", 𝑭𝒐𝒙 𝑳𝒊𝒇𝒆
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kbsworld"  tvg-logo="https://i.ibb.co/pRq2cv7/KBSWorldlogobyvovanloc.png", 𝑲𝑩𝑺 𝑾𝒐𝒓𝒍𝒅
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="kix_hd" tvg-logo="https://i.ibb.co/dD06Xmz/1200px-KIX-logo-svg.png", 𝑲𝑰𝑿
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",𝑨𝒓𝒊𝒓𝒂𝒏𝒈 𝑲𝒐𝒓𝒆𝒂
