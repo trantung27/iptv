@@ -1,2 +1,0 @@
-#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/QKtTwrJ/htv7logobyvovanloc.png", HTV7
-http://27.67.80.70:18080//176_1.m3u8
