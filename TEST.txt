@@ -1,3 +1,0 @@
-
-#EXTINF:-1  tvg-logo="", test
-http://hthanhmedia:kodanlainguonnhe!3@hthanhmedias.duckdns.org:9981/stream/channelid/1266361788
