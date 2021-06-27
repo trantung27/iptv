@@ -59,6 +59,8 @@ https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dcLPrCw/unnamed.png", Cà Mau
 https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/8gxVmrs/kg.png", Kiên Giang
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KIENGIANG-SD-ABR/HTV-ABR/KIENGIANG-SD-720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/gdtMYzR/KG1.png", Kiên Giang 1
 https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/wSkNXMP/btv1.png", Bình Dương 1
