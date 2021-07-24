@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV7
-https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b1800000.m3u8
+https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV9
-https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b1800000.m3u8
+https://livecdn.fptplay.net/hda1/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑽𝒊𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ⚡ HTV2
-https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b1800000.m3u8
+https://livecdn.fptplay.net/hda1/htv2hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒓𝒆𝒂𝒎𝒔 𝑻𝑽 ⚡ HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV Key
@@ -42,7 +42,7 @@ https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", An Giang
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 1
-https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b1800000.m3u8
+https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 2
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Cần Thơ
@@ -98,7 +98,7 @@ https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc2"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc3"   tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC3
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b1800000.m3u8
+https://livecdn.fptplay.net/hda1/vtc3hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc4hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC4
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd"   tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC5
