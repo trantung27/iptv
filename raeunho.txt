@@ -127,9 +127,9 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV2
-https://vips-livecdn.fptplay.net/hda1/vtv2hd_vhls.smil/chunklist_b1800000.m3u8
+https://livecdn.fptplay.net/hda1/vtv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV3
-
+https://livecdn.fptplay.net/hda1/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV4
 https://vips-livecdn.fptplay.net/hda1/vtv4hd_vhls.smil/chunklist_b1800000.m3u8
