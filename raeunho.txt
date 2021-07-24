@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV7
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV9
-https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑽𝒊𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ⚡ HTV2
-https://livecdn.fptplay.net/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒓𝒆𝒂𝒎𝒔 𝑻𝑽 ⚡ HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV Key
@@ -42,7 +42,7 @@ https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", An Giang
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 1
-https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 2
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Cần Thơ
@@ -62,9 +62,9 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KIENGIANG-SD-ABR/HTV-ABR/KIENGIAN
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Kiên Giang 1
 https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Bình Dương 1
-https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Bình Dương 2
-https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="btv9_an_vien"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒏 𝑽𝒊𝒆𝒏 𝑻𝑽 ⚡ Bình Dương 9
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Tây Ninh
@@ -98,7 +98,7 @@ https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc2"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc3"   tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC3
-https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtc4hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC4
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd"   tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC5
@@ -127,21 +127,21 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV2
-https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV3
-http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv3_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV4
-https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV5
-https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv5_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV6
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv6_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV7
-https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv7_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV8
-https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv8_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV9
-https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv9_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="foxhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Fox
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
