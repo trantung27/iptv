@@ -41,13 +41,13 @@ http://livecdn.fptplay.net/sda/tiengiang_2000.stream/playlist.m3u8
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", An Giang
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 1
+#EXTINF:-1 tvg-id="vl1hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 1
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 2
+#EXTINF:-1 tvg-id="vl2hd"tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 2
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 3
+#EXTINF:-1 tvg-id="vl3hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 3
 https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 4
+#EXTINF:-1 tvg-id="vl4hd "tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 4
 #https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Cần Thơ
 http://livecdn.fptplay.net/sda/cantho_2000.stream/playlist.m3u8
