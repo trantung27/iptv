@@ -83,6 +83,18 @@ https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Bình Phước 2
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",Đà Nẵng 1
+https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",Đà Nẵng 2
+https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",Hải Phòng
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg" ,Hà Nội 1
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg" ,Hà Nội 2
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",𝒀𝒐𝒖 𝑻𝑽 ⚡ HanoiCab2
+https://live2cdn.todayplus.com.vn/sdb/smil:youtv.smil/chunklist_b1596000.m3u8
 
 #EXTINF:-1 tvg-id="ttxvn" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Thông Tấn Xã Việt Nam
 https://livecdn.fptplay.net/sda/ttxvn_2000.stream/chunklist.m3u8
@@ -210,6 +222,8 @@ http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="blue_ant_extreme"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Blue Ant Extreme
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",MTV
+https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="channelvhd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Channel V
 http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxlifehd"  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg",Fox Life 
