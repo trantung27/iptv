@@ -29,7 +29,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_ca_nhac" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Ca Nhạc
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_fbnc" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝑩𝑵𝑪 ⚡ HTVC
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT/FBNC-HD-ABR/HTV-ABR/FBNC-HD-1080p/chunks.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT/FBNC-HD-ABR/HTV-ABR/FBNC-HD-720p/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Long An
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
