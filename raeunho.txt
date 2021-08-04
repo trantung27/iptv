@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝗛𝗧𝗩𝟳
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝙷𝚃𝚅𝟽
 https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV9
 https://livecdn.fptplay.net/hda1/htv9hd_hls.smil/chunklist_b2500000.m3u8
