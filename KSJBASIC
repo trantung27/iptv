@@ -210,6 +210,10 @@ http://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8|Referer=
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", MTV
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", HBO
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", Cinemax
+https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", Fox
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", Fox Movies
