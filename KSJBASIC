@@ -46,7 +46,7 @@ https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 2
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 3
-https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 "tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 4
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Cần Thơ
@@ -71,6 +71,8 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑨𝒏 𝑽𝒊𝒆𝒏 𝑻𝑽 ⚡ Bình Dương 9
 https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑵𝑪𝑴 ⚡ Bình Dương 10
+https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Tây Ninh
 http://livecdn.fptplay.net/sda/tayninhhd_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Đồng Nai 1
@@ -140,9 +142,6 @@ https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC16
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑵𝒆𝒕 𝑺𝒕𝒂𝒓𝒔 ⚡ SCTV2
-https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV2
@@ -161,6 +160,9 @@ https://livecdn.fptplay.net/hda3/vtv7hd_hls.smil/chunklist_b2500000.m3u8
 https://subs-livecdn.fptplay.net/hda2/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV9
 https://livecdn.fptplay.net/hda2/vtv9_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑵𝒆𝒕 𝑺𝒕𝒂𝒓𝒔 ⚡ SCTV2
+https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", MTV
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
@@ -250,6 +252,8 @@ http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", France 24
 http://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", DW
-http://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", TV5Monde Asie
 http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", CNA
+https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
