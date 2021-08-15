@@ -163,50 +163,6 @@ https://subs-livecdn.fptplay.net/hda2/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", VTV9
 https://livecdn.fptplay.net/hda2/vtv9_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", SCTV1
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", 𝑵𝒆𝒕 𝑺𝒕𝒂𝒓𝒔 ⚡ SCTV2
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", 𝑺𝒆𝒆 𝑻𝑽 ⚡ SCTV3
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", SCTV4
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", SCTV6
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", SCTV7
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", 𝑽𝑰𝑻𝑽 ⚡ SCTV8
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", SCTV9
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", SCTV11
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", SCTV12
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", 𝑳𝒂𝒅𝒚 𝑻𝑽 ⚡ SCTV13
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  𝑲𝒆𝒏𝒉 𝑷𝒉𝒊𝒎 𝑽𝒊𝒆𝒕 ⚡ SCTV14
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  𝑺 𝑺𝒑𝒐𝒓𝒕 𝟐 ⚡ SCTV15
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  SCTV16
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  𝑺 𝑺𝒑𝒐𝒓𝒕 ⚡ SCTV17
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  SCTV18
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  𝑻 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ⚡ SCTV19
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  SCTV20
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  𝑽𝒊𝒆𝒕 𝑵𝒂𝒎 𝑲𝒚 𝑼𝒄 ⚡ SCTV21
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  𝑺 𝑺𝒑𝒐𝒓𝒕 𝟏 ⚡ SCTV22
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg",  SCTV Phim Tổng Hợp
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8|Referer=http://sctvonline.vn/
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/HnYwp45/sjg.jpg", MTV
 https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
 
