@@ -44,7 +44,7 @@ http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 1
 https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 2
-https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 3
 https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 "tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Vĩnh Long 4
