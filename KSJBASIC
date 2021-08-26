@@ -162,7 +162,8 @@ https://subs-livecdn.fptplay.net/hda2/vtv8hd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda2/vtv9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", MTV
-https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
+#https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HBO
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
