@@ -169,38 +169,38 @@ https://livecdn.fptplay.net/hda2/vtv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HBO
+#EXTINF:-1 tvg-id="hbohd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HBO
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Cinemax
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Cinemax
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Fox
+#EXTINF:-1 tvg-id="foxhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Fox
 http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Fox Movies
+#EXTINF:-1 tvg-id="foxmovieshd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Fox Movies
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Fox Family Movies 
+#EXTINF:-1 tvg-id="foxfamilymovieshd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Fox Family Movies 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Warner TV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Cinema World
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Cinema World
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Paramount Network
+#EXTINF:-1 tvg-id="paramouthd"tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Discovery
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Discovery
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Discovery Asia
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Animal Planet
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Animal Planet
 http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", TLC
+#EXTINF:-1 tvg-id="tlchd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", TLC
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Outdoor Channel
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", National Geographic 
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", National Geographic 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Nat. Geo. Wild
+#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Nat. Geo. Wild
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg" , BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg" , BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Da Vinci
