@@ -4,15 +4,15 @@
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV9
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV1
+#EXTINF:-1 tvg-id="htv1" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑽𝒊𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ⚡ HTV2
+#EXTINF:-1 tvg-id="htv2" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑽𝒊𝒆 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 ⚡ HTV2
 https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒓𝒆𝒂𝒎𝒔 𝑻𝑽 ⚡ HTV3
+#EXTINF:-1 tvg-id="htv3" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑫𝒓𝒆𝒂𝒎𝒔 𝑻𝑽 ⚡ HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV Key
+#EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV Thể Thao
+#EXTINF:-1 tvg-id="htv_the_thao" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV Thể Thao
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTVC Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
