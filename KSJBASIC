@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV7
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV7
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV9
+#EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV9
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
