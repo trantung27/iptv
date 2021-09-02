@@ -117,13 +117,13 @@ https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VOV TV
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg="vtc1hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC1
-https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg="vtc2" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg="vtc3hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC3
-https://livecdn.fptplay.net/hda1/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg="vtc4hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC4
-https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg="vtc5hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC5
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg="vtc6hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC6
@@ -141,30 +141,30 @@ https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg="vtc12hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑽𝑻𝑪𝑲 ⚡ VTC12
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg="vtc13hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC13
-https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg="vtc14hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC14
-https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg="vtc16" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTC16
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV1
-https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV2
-https://livecdn.fptplay.net/hda1/vtv2_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV3
-https://livecdn.fptplay.net/hda1/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV4
-https://livecdn.fptplay.net/hda1/vtv4_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV5
-https://livecdn.fptplay.net/hda2/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV6
-https://livecdn.fptplay.net/hda1/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV7
-https://livecdn.fptplay.net/hda3/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV8
-https://subs-livecdn.fptplay.net/hda2/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV9
-https://livecdn.fptplay.net/hda2/vtv9_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", MTV
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
