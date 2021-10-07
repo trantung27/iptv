@@ -168,9 +168,9 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", VTV9
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑵𝒆𝒕 𝑺𝒕𝒂𝒓𝒔 ⚡ SCTV2
+#EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑵𝒆𝒕 𝑺𝒕𝒂𝒓𝒔 ⚡ SCTV2
 https://vips-livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝑰𝑴 𝟑𝟔𝟎 ⚡ SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", 𝑭𝑰𝑴 𝟑𝟔𝟎 ⚡ SCTV6
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", MTV
@@ -195,7 +195,7 @@ http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Outdoor Channel
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", National Geographic
+#EXTINF:-1 tvg-id="ngchd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", National Geographic
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Nat. Geo. Wild
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
@@ -217,9 +217,9 @@ https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", DreamWorks
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", AXN
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", AXN
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", DMAX
+#EXTINF:-1 tvg-id="dmaxhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", DMAX
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", BBC Lifestyle
 https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
