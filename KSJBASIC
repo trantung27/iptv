@@ -214,7 +214,7 @@ https://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", Cartoon Network
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", DreamWorks
+#EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", DreamWorks
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.ibb.co/h7sVXL1/reh.jpg", AXN
