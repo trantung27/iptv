@@ -248,7 +248,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", CNN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", TV5Monde Asie
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", TV5 Monde Asie
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", ABC Australia
 https://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
