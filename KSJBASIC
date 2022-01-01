@@ -31,8 +31,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", HTVC Ca Nhạc
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcfbnc" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", 𝑭𝑩𝑵𝑪 ⚡ HTVC
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Long An
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
@@ -168,8 +168,8 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", VTV9
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", 𝑵𝒆𝒕 𝑺𝒕𝒂𝒓𝒔 ⚡ SCTV2
-https://vips-livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
+
+
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", 𝑭𝑰𝑴 𝟑𝟔𝟎 ⚡ SCTV6
 https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 
