@@ -36,6 +36,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="dongthap" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Đồng Tháp 1
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Miền Tây - Đồng Tháp 2
+https://mziyw7t0yhliv.vcdn.cloud/live/dongthap2/chunklist_1.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Tiền Giang
 http://livecdn.fptplay.net/sda/tiengiang_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Bến Tre
@@ -93,6 +95,8 @@ https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Bình Phước 2
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", ANT - Bình Phước 3
+https://mziyw7t0yhliv.vcdn.cloud/live/binhphuoc3/chunklist_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Kon Tum
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
