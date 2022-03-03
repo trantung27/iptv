@@ -33,8 +33,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Long An
-#https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
-http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+#http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1  tvg-id="dongthap" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Đồng Tháp 1
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Miền Tây - Đồng Tháp 2
@@ -349,7 +349,7 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="inthebox" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", In The Box
 https://log5uwsgbvliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Hollywood Classic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Hollywood Classics
 https://log5uwsgbvliv.vcdn.cloud/live/hollywood/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", In The Box Movie 1
 https://log5uwsgbvliv.vcdn.cloud/live/box-movie/chunklist_2.m3u8
