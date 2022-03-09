@@ -72,9 +72,9 @@ https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1  tvg-id="binhduong1" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Bình Dương 1
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-id="binhduong2"tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Bình Dương 2
+#EXTINF:-1  tvg-id="binhduong2" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Bình Dương 2
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Bình Dương 3
+#EXTINF:-1  tvg-id="binhduong3" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Bình Dương 3
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="binhduong4" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Bình Dương 4
 https://vips-livecdn.fptplay.net/hda2/btv4hd_4000.stream/chunklist.m3u8
@@ -193,7 +193,6 @@ https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Tuyên Quang
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
-
 
 #EXTINF:-1 tvg-id="ttxvnhd"tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Thông Tấn Xã Việt Nam
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
@@ -368,8 +367,6 @@ https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngchd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", National Geographic
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="ngwhd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Nat. Geo. Wild
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Planet Earth
@@ -394,8 +391,6 @@ https://log5uwsgbvliv.vcdn.cloud/live/happy-kids/chunklist_2.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", AXN
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dmaxhd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", DMAX
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", BBC Lifestyle
 https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Asian Food Network
@@ -425,12 +420,6 @@ https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", CNA
 https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Bloomberg
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BLOOMBERG-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", BBC World News
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", CNN
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", TV5 Monde Asie
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", ABC Australia
