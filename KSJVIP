@@ -346,14 +346,8 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Cinema World
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="inthebox" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", In The Box
-https://log5uwsgbvliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Hollywood Classics
-https://log5uwsgbvliv.vcdn.cloud/live/hollywood/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", In The Box Movie 1
-https://log5uwsgbvliv.vcdn.cloud/live/box-movie/chunklist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Box Hits
-https://log5uwsgbvliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Discovery
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
@@ -370,7 +364,7 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Planet Earth
-https://log5uwsgbvliv.vcdn.cloud/live/planet-earth/chunklist_2.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8
 
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Da Vinci
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
@@ -387,7 +381,7 @@ https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000
 #EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", DreamWorks
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="happykids" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Happy Kids
-https://log5uwsgbvliv.vcdn.cloud/live/happy-kids/chunklist_2.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", AXN
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
@@ -406,14 +400,16 @@ https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="fashionhd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Fashion TV
 http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Dr. Fit
-https://log5uwsgbvliv.vcdn.cloud/live/dr-fit/chunklist_2.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Woman
-https://log5uwsgbvliv.vcdn.cloud/live/woman/chunklist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Man
-https://log5uwsgbvliv.vcdn.cloud/live/man-tv/chunklist_2.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Box Music
-https://log5uwsgbvliv.vcdn.cloud/live/box-music/chunklist_2.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", CNN
+https://e4.endpoint.cdn.sctvonline.vn/hls/cnn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", BBC World News
+https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", NHK World Japan
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", DW
