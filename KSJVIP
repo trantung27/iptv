@@ -221,8 +221,7 @@ https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", VTC6
 https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Today TV - VTC7
-#https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-https://live2cdn.todayplus.com.vn/catchup/smil:vtc7.smil/chunklist_w270840780_b2289152.m3u8
+https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc8" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", VTC8
 https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", VTC9
@@ -310,8 +309,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", SCTV9
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", SCTV11
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8
-#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", SCTV12
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv12/sd1/index.m3u8?md5=i0L8AAUKtOAHBzsnl8UhlA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Lady TV - SCTV13
