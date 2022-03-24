@@ -14,9 +14,7 @@ https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvkey" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", HTV Thể Thao
-#https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/chunks.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMjcuNjQuMTIxLjgyIiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjI3LjY0LjEyMS44MiIsImlhdCI6MTY0ODAzOTI3OX0.Wk7PBSaIjao4EU_K-Uo47_GvvjdSidwjrBQ-xc_wEo6MfRjpE_x_h7qCiSy-_N75cM1dcWD3Mh8GujkE7PqI-3UtbP5iF-aCIZOlu9dbyB-EsSWzNjmXvrbaMRkVhrVRMil_NxrozjWooQFwJW3_LTlEjE63t8oZg8dMFZhmP09-o8qSTzaug5yIDf42yAtIk2Ye0j4O3ETbSro0XBOH586cGcKBqOpuvv62sL6WobTadDNFKInEoDT8-GZenjWxV0om7fVM_uerqgEJQLOdJv_o6icM9P_0J_U1bYh5KSu3jFzkWyPnFetQwUUYyF2CknFteTQBxqRtJoVSUwGdX2CGHFal8_8wZynyqHB7Jj-Zfuhv9EL5OP0sL23-txVCoqmfsvBtXpVi_s28M9ZuKN96B67RgceylSSDbfBA-HPp6kaHfwhQUZXtl_ioRG-G_qXvfUKDjYd54d9eUny0xDe53u1VarFjDncqHJ9gAOKbmikj70Y1SKGDGavuSt3zDO6EwbxrmMR2UegghAQBZNZ4wPdRy8o6Iwq7gqgwaEIWQqm8_7oTmzkk3RjGkoyoXWl9Sr-FNeU_i6h_ebJraAHaqdYAA4q-1v8Xx8sbdMMHTWiUJAcfBus7li1ctDMx0H5jO9zfDos1A2tc0B1AdWGV-bPss4oMAaRrCiHmfr4
-#https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", HTVC Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", HTVC Thuần Việt HD
@@ -223,8 +221,8 @@ https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", VTC6
 https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Today TV - VTC7
-https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-#https://mziyw7t0yhliv.vcdn.cloud/live/vtc7/chunklist_2.m3u8
+#https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+https://live2cdn.todayplus.com.vn/catchup/smil:vtc7.smil/chunklist_w270840780_b2289152.m3u8
 #EXTINF:-1 tvg-id="vtc8" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", VTC8
 https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", VTC9
@@ -312,7 +310,8 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", SCTV9
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", SCTV11
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/s1/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", SCTV12
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv12/sd1/index.m3u8?md5=i0L8AAUKtOAHBzsnl8UhlA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv13hd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Lady TV - SCTV13
@@ -350,7 +349,7 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Cinema World
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", Paramount Network
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT/PARAMOUNT-HD-ABR/HTV-ABR/PARAMOUNT-HD-720p/chunks.m3u8
+https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_w1018317465_b2289152.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvZ8537/IMG-20211012-171908-1.jpg", In The Box Movie 1
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
