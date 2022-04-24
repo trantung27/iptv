@@ -16,21 +16,29 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://ibb.co/jW9nddP", HTV Thể Thao
 https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://ibb.co/jW9nddP", HTVC Thuần Việt
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_4000.stream/chunklist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://ibb.co/jW9nddP", HTVC Thuần Việt HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://ibb.co/jW9nddP", HTVC Gia Đình
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_4000.stream/chunklist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://ibb.co/jW9nddP", HTVC Du Lịch & Cuộc Sống
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcdulich_4000.stream/chunklist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://ibb.co/jW9nddP", HTVC Phụ Nữ
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcphunu_4000.stream/chunklist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://ibb.co/jW9nddP", HTVC Phim
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/sdb/htvcmovieshd_hls.smil/chunklist_b2500000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://ibb.co/jW9nddP", HTVC Plus
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcplus_4000.stream/chunklist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://ibb.co/jW9nddP", HTVC Ca Nhạc
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcmusic_4000.stream/chunklist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Long An
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
@@ -38,7 +46,7 @@ https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="dongthap" tvg-logo="https://ibb.co/jW9nddP", Đồng Tháp 1
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Miền Tây - Đồng Tháp 2
-#https://mziyw7t0yhliv.vcdn.cloud/live/dongthap2/chunklist_1.m3u8
+https://mziyw7t0yhliv.vcdn.cloud/936c6dfe4b7f0014cd1ce1776538de78/1650799782000/live/dongthap2/chunklist_1.m3u8
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Tiền Giang
 http://livecdn.fptplay.net/sda/tiengiang_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Bến Tre
@@ -104,7 +112,6 @@ https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
-
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Lâm Đồng
@@ -152,6 +159,8 @@ https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/jW9nddP", You TV - HanoiCab2
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/jW9nddP", Lạng Sơn
+https://livecdn.fptplay.net/sdc/langson_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/jW9nddP", Bắc Ninh
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/jW9nddP", Hà Nam
@@ -187,6 +196,10 @@ https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/jW9nddP", Phú Thọ
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/jW9nddP", Hoà Bình
+https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/jW9nddP", Yên Bái
+https://livecdn.fptplay.net/sdc/yenbai_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/jW9nddP", Điện Biên
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/jW9nddP", Hà Giang
