@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/cocaepg" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
-#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114406&authkey=AKvjuJE8ckCldwM
+#EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://ibb.co/jW9nddP", HTV7
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -111,7 +110,8 @@ https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Đắk Nông
+https://drm-livecdn.hplus.com.vn/htvonline/daknong.480p.nimble.tms/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://ibb.co/jW9nddP", Lâm Đồng
