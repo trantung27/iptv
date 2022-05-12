@@ -45,7 +45,8 @@ https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="dongthap" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg", Đồng Tháp 1
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg", Miền Tây - Đồng Tháp 2
-#https://mziyw7t0yhliv.vcdn.cloud/936c6dfe4b7f0014cd1ce1776538de78/1650799782000/live/dongthap2/chunklist_1.m3u8
+https://livecdn.hplus.com.vn/htvonline/mientay.480p.fpt.tms/chunklist.m3u8
+#https://livecdn.hplus.com.vn/htvonline/mientay.480p.fpt.tms/chunklist.m3u8?st=be0GFjGxLWT3kxwtWVa2YA&e=1652355212
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg", Tiền Giang
 http://livecdn.fptplay.net/sda/tiengiang_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg", Bến Tre
@@ -73,8 +74,6 @@ https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg", Cà Mau
 https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg", Kiên Giang
-
-
 https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1  tvg-id="binhduong1" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg", Bình Dương 1
