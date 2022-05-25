@@ -109,7 +109,7 @@ https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Đắk Nông
-https://drm-livecdn.hplus.com.vn/htvonline/daknong.480p.nimble.tms/playlist.m3u8
+#https://drm-livecdn.hplus.com.vn/htvonline/daknong.480p.nimble.tms/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Lâm Đồng
