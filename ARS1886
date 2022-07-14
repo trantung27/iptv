@@ -18,7 +18,7 @@ https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_4000.stream/chunklist.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", HTVC Thuần Việt HD
-https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", HTVC Gia Đình
 https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_4000.stream/chunklist.m3u8
