@@ -269,42 +269,42 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VTV9
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Vie Giải Trí - VTVCab1
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Vie Giải Trí - VTVcab1
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VTVCab4
+#EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VTVcab4
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab5hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", E Channel - VTVCab5
+#EXTINF:-1 tvg-id="vtvcab5hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", E Channel - VTVcab5
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab7hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VTVCab7
+#EXTINF:-1 tvg-id="vtvcab7hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VTVcab7
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab8hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", BiBi - VTVCab8
+#EXTINF:-1 tvg-id="vtvcab8hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", BiBi - VTVcab8
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Info TV - VTVCab9
+#EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Info TV - VTVcab9
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab12hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Style TV - VTVCab12
+#EXTINF:-1 tvg-id="vtvcab12hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Style TV - VTVcab12
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VTVCab15
+#EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VTVcab15
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Yeah1 TV - VTVCab17
+#EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Yeah1 TV - VTVcab17
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Vie Dramas - VTVCab19
+#EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Vie Dramas - VTVcab19
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab20hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", V Family - VTVCab20
+#EXTINF:-1 tvg-id="vtvcab20hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", V Family - VTVcab20
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Cine - VTVCab
+#EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Cine - VTVcab
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Phim Việt - VTVCab
+#EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Phim Việt - VTVcab
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Sports - VTVCab
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Sports - VTVcab
 https://onsportlive.vtvcab.vn/hls/ONTT/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Sports News - VTVCab
+#EXTINF:-1 tvg-id="vtvcab18hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Sports News - VTVcab
 https://live2onsport.vtvcab.vn/hls/ONTTTT/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Sports+ - VTVCab
+#EXTINF:-1 tvg-id="vtvcab6hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Sports+ - VTVcab
 https://live2onsport.vtvcab.vn/hls/ONSPORTPL/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Football - VTVCab
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Football - VTVcab
 https://live2onsport.vtvcab.vn/hls/ONBD/04.m3u8
-#EXTINF:-1 tvg-id="vtvcab23hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Golf - VTVCab
+#EXTINF:-1 tvg-id="vtvcab23hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Golf - VTVcab
 https://live2onsport.vtvcab.vn/hls/ONTTG/04.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", SCTV1
