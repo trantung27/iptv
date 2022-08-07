@@ -130,7 +130,7 @@ https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Đà Nẵng 1
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Đà Nẵng 2
-https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
+https://livecdn.fptplay.net/sdc/danang2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Thừa Thiên Huế
 https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
@@ -146,7 +146,7 @@ https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Hải Phòng
-https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
+https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi1" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Hà Nội 1
 https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi2" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Hà Nội 2
@@ -270,7 +270,8 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Vie Giải Trí - VTVCab1
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
+https://live-on-sigma-drm-v2-zen.gviet.vn/manifest/vtvcab1/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VTVCab4
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab5hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", E Channel - VTVCab5
