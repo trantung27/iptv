@@ -53,11 +53,11 @@ https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", An Giang
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="vinhlong1hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Vĩnh Long 1
-https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-id="vinhlong2hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Vĩnh Long 2
-https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="vinhlong3hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Vĩnh Long 3
-https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1  tvg-id="vinhlong4hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Vĩnh Long 4
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Cần Thơ
@@ -217,7 +217,6 @@ https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VOV TV
-#https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", VTC1
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
@@ -303,7 +302,6 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctv
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Football - VTVcab
 https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab23hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", On Golf - VTVcab
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", SCTV1
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/
@@ -399,13 +397,15 @@ https://vips-livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dreamworks" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Dream Works
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="babytv" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Baby TV
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="happykids" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="axnhd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", AXN
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", BBC Lifestyle
-https://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbclifestyle_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Asian Food Network
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="blueantent" tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg" , Rock Entertainment 
@@ -422,11 +422,10 @@ http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
-
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", CNN
-https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/cnn_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", BBC World News
-https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbcnews_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", NHK World Japan
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", DW
@@ -436,7 +435,7 @@ https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", TV5 Monde Asie
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", ABC Australia
-https://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", France 24
 https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Arirang Korea
@@ -444,4 +443,4 @@ https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", CNBC
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://gamek.mediacdn.vn/133514250583805952/2020/5/11/xs4-1589197372419772952427.jpg", Bloomberg
-https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/bloomberg_4000.stream/chunklist.m3u8
