@@ -7,7 +7,8 @@ https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Vie Channel - HTV2
-https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvkey" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV Key
@@ -54,7 +55,6 @@ http://livecdn.fptplay.net/sda/cantho_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Hậu Giang
 http://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Trà Vinh
-#https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Sóc Trăng 1
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
@@ -258,34 +258,74 @@ https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", VTV Cần Thơ
 https://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
+
 #EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Vie Giải Trí - VTVcab1
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
-https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", E Channel - VTVcab5
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Info TV - VTVcab9
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab12hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Style TV - VTVcab12
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Yeah1 TV - VTVcab17
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Vie Dramas - VTVcab19
-#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
-https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", V Family - VTVcab20
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Cine
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Phim Viet
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Movies
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab7hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On O2 TV
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab8hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On BiBi
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Music
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Vie Giải Trí - VTVcab1
+https://856175157.r.vtvcdn.com/ondrm/GIAITRI_TV_HD/m20_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Vie Dramas - VTVcab19
+https://856175157.r.vtvcdn.com/ondrm/FILM_TV/m20_index.m3u8
+EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Yeah1 TV - VTVcab17
+https://856175157.r.vtvcdn.com/ondrm/YEAH1_TV/m20_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab5hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", E Channel - VTVcab5
+https://856175157.r.vtvcdn.com/ondrm/E_CHANNEL/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Info TV - VTVcab9
+https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab12hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Style TV - VTVcab12
+https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
+EXTINF:-1 tvg-id="vtvcab20hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", V Family - VTVcab20
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab6hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Sports+
+https://856175157.r.vtvcdn.com/ondrm/HAY_TV/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Sports
+https://livevlive.vtvcab.vn/hls/OS_THETHAO_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Sports News
+https://livevlive.vtvcab.vn/hls/OS_THETHAO_TINTUC_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Football
+https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEAA/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab23hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Golf
+https://856175157.r.vtvcdn.com/ondrm/THETHAO_GOLF_HD/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Phim Viet
+https://856175157.r.vtvcdn.com/ondrm/PHIM_VIET/m20_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Movies
+https://856175157.r.vtvcdn.com/ondrm/VAN_HOA/m20_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab7hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On O2 TV
+https://856175157.r.vtvcdn.com/ondrm/D_DRAMAS_HD/m30_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab8hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On BiBi
+https://856175157.r.vtvcdn.com/ondrm/BIBI/m20_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab10hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Cine
+https://856175157.r.vtvcdn.com/ondrm/O2_TV/m20_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Music
+https://856175157.r.vtvcdn.com/ondrm/M_CHANNEL/m20_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab21hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Kids
+https://856175157.r.vtvcdn.com/ondrm/BIBI_PLUS_clear/m20_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab22hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Life
+https://856175157.r.vtvcdn.com/ondrm/LIFE_TV/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", SCTV1
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/
@@ -330,9 +370,6 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=http://
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", SCTV Phim Tổng Hợp
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:0 tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", MTV
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HBO
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Cinemax
@@ -341,8 +378,6 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Cinema World
 https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Paramount Network
-#https://live2cdn.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_w1018317465_b2289152.m3u8
 #EXTINF:-1 tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", In The Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hollywoodclassics" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Hollywood Classics
