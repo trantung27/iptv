@@ -299,8 +299,7 @@ https://856175157.r.vtvcdn.com/ondrm/INFO_TV/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Style TV - VTVcab12
 https://856175157.r.vtvcdn.com/ondrm/STYLE_TV_HD/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", V Family - VTVcab20
-#https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
-https://856175157.r.vtvcdn.com/ondrm/V_FAMILY/m20_index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Sports+
 https://856175157.r.vtvcdn.com/ondrm/HAY_TV/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", On Sports
