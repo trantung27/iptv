@@ -53,8 +53,7 @@ https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1  tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Cần Thơ
 http://livecdn.fptplay.net/sda/cantho_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Hậu Giang
-#http://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8
-https://live-on-sigma-drm-v2-vtvlive.gviet.vn/manifest/hau-giang/playlist_480p.m3u8
+http://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Trà Vinh
 https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Sóc Trăng 1
