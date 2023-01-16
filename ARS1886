@@ -355,7 +355,7 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8|Referer=http://
 https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Kênh Phim Việt - SCTV14
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv14/index.m3u8|Referer=http://sctvonline.vn/
-https://vtsstr4.tv24.vn/live/SCTV_HD_PhimViet_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
+https://vtsstr7.tv24.vn/live/SCTV_HD_PhimViet_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv15hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", S Sport 2 - SCTV15
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", SCTV16
@@ -375,7 +375,7 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8|Referer=http://
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", SCTV Phim Tổng Hợp
 #https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
-https://vtsstr4.tv24.vn/live/SCTV_HD_PhimTongHop_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
+https://vtsstr7.tv24.vn/live/SCTV_HD_PhimTongHop_new.smil/playlist.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HBO
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
