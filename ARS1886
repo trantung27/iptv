@@ -4,7 +4,8 @@
 https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV9
 #https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/epzhd1/htv9hd_4000.stream/chunklist.m3u8
+#https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Vie Channel - HTV2
