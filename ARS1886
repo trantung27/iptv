@@ -5,7 +5,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8|Referer=http://sct
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV9
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV1
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Vie Channel - HTV2
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV3
@@ -343,10 +343,11 @@ https://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", Bloomberg
 #https://vips-livecdn.fptplay.net/hda3/bloomberg_4000.stream/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV7
-#https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV7
-#https://drm-livecdn.hplus.com.vn/CDN-FPT/HTV7-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://img2.thuthuatphanmem.vn/uploads/2019/01/04/anh-logo-arsenal-dep_025558778.png", HTV7
-#https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png", HTV Key
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV-KEY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" group-title="HTV",HTV7 HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" group-title="HTV",HTV9 HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV THỂ THAO HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
